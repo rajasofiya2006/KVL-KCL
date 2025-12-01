@@ -1,3 +1,5 @@
+Sofiya .R
+212223210029
 ## Aim:
 To verify the Kirchoff’s Current law and Voltage law for the given circuit theoretically and practically.
 
@@ -20,13 +22,18 @@ Sl. No. Apparatus Specification Quantity
 3. Measure the voltages and currents and note down the values in the tabular column
 4. Verify the theoretical and practical values.
 
-## Formula Used: 
+## Formula Used:
+sum of incoming currents=sum of outgoing currents
+
+sum of voltage drop =sum of voltage rise
 
 ## Circuit Diagram :
+<img width="1900" height="1067" alt="Screenshot 2025-11-28 232231" src="https://github.com/user-attachments/assets/1a4182c1-fbc1-496a-b394-b92a3455e501" />
 
-## Output Calculation:
+<img width="1895" height="968" alt="Screenshot 2025-11-28 232621" src="https://github.com/user-attachments/assets/8ba94268-0e65-491b-ae53-4f5270091573" />
 
-## Output Tabulation:
 
 ## Result:  
+
+Thus kirchoff's voltage law and current law are verified theoritically and practically.
 
